@@ -1,0 +1,7 @@
+<p>
+  Breaking news!
+</p>
+
+<ul>
+  <li *ngFor="let news of news$ | async">{{news.Title}}</li>
+</ul>

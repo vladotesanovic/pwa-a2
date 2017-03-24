@@ -1,0 +1,6 @@
+/* Mobile devices */
+@media (max-width: 768px) {
+    header {
+        height: 100px;
+    }
+}
