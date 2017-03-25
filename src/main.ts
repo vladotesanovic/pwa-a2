@@ -18,7 +18,7 @@ if (environment.production) {
         // registration failed :(
         console.log('ServiceWorker registration failed: ', err);
       });
-    }); 
+    });
   }
 }
 
